@@ -5,7 +5,7 @@
 This project is a foldable greeting card designed in the form of a miniature table lamp. It combines paper craft with a simple LED-based electrical circuit.
 
 The LED is placed inside the paper lampshade to create an illumination effect. The design is lightweight, simple, and suitable for decorative and greeting purposes.  
-![][image1]
+![Result](result.jpeg)
 
 ## 2\. OBJECTIVES
 
@@ -38,7 +38,7 @@ Circuit Connection
 Battery (+) → LED → Battery (−)
 
 The LED is connected according to its polarity. When the circuit is completed, current flows through the LED and it produces light.  
-![][image2]
+![circuit](circuit.png)
 
 # 5 .COMPOUND FUNCTIONS
 
