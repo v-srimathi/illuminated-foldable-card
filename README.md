@@ -44,21 +44,22 @@ The LED is connected according to its polarity. When the circuit is completed, c
 
 Battery
 
-Provides the electrical energy required to operate the LED.
+      Provides the electrical energy required to operate the LED.
 
 LED
 
-       The LED is the light-producing component. It converts electrical energy into visible light.
+     The LED is the light-producing component. It converts electrical energy into visible light.
 
 Conducting aluminium sheet/paper   
             
-        Holds the LED and provides the appearance and structure of a table lamp.
+     Holds the LED and provides the appearance and structure of a table lamp.
 
      
    
 Glue / Tape
 
-                Used to hold the paper structure, wires, and other components firmly in position                                  Provide the conducting path between the battery and LED\]
+      Used to hold the paper structure, wires, and other components firmly in position                     
+      Provide the conducting path between the battery and LED
 
 # 6 .COMPOUND PLACEMENT
 
